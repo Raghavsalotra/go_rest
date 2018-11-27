@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"strconv"
 
-	ae "github.com/raghav/go_rest/apperror"
-	"github.com/raghav/go_rest/model"
-	"github.com/raghav/go_rest/reply"
-	"github.com/raghav/go_rest/validate"
+	ae "github.com/Raghavsalotra/go_rest/apperror"
+	"github.com/Raghavsalotra/go_rest/model"
+	"github.com/Raghavsalotra/go_rest/reply"
+	"github.com/Raghavsalotra/go_rest/validate"
 )
 
 func GetUser(w http.ResponseWriter, r *http.Request) {

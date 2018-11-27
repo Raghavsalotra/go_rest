@@ -3,7 +3,7 @@ package model
 import (
 	"time"
 
-	"github.com/raghav/go_rest/config"
+	"github.com/Raghavsalotra/go_rest/config"
 )
 
 type UserToken struct {
