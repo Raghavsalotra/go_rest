@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/raghav/go_rest/config"
+	"github.com/Raghavsalotra/go_rest/config"
 )
 
 type User struct {
