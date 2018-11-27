@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"runtime/debug"
 
-	ae "github.com/raghav/go_rest/apperror"
-	"github.com/raghav/go_rest/config"
-	"github.com/raghav/go_rest/log"
+	ae "github.com/Raghavsalotra/go_rest/apperror"
+	"github.com/Raghavsalotra/go_rest/config"
+	"github.com/Raghavsalotra/go_rest/log"
 )
 
 type public interface {
